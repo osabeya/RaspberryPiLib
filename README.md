@@ -1,4 +1,4 @@
-# Raspberry Pi Lib
+# Raspberry Pi Pico Lib
 
 RaspberryPi Pico用MicroPythonライブラリ集
 
