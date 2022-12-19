@@ -11,7 +11,7 @@ PIN_DOUT = 16
 # 光発生確率
 APPEAR = 0.4
 # 減光率1
-REDUCE1 = 0.87
+REDUCE1 = 0.80
 # 減光率2
 REDUCE2 = 0.90
 # 最初の明るさ
